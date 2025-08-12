@@ -1,0 +1,11 @@
+Selectors are used to apply styles for the selected documents.
+
+Css Specificity:
+  When there is multiple selectors are used for the same tag then the selectors implementation works based on the priority known CSS Specificity.
+
+  The specifity are:
+         Tagname-1
+         class-10
+         ID-100
+         Inlinecss-100
+         
